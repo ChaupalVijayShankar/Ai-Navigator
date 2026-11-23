@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Navigator – Smart Skill Gap Analyzer",
+  "description": "Discover Your Skills. Identify Your Gaps. Build Your Future. AI-powered skill gap analysis and personalized 8-week career roadmap generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
